@@ -1,0 +1,8 @@
+HTTP/1.0 200 OK
+Server: SimpleHTTP/0.6 Python/3.10.12
+Date: Wed, 21 Oct 2026 04:04:46 GMT
+Content-type: text/html
+Content-Length: 26
+Last-Modified: Wed, 21 Oct 2026 04:03:54 GMT
+
+<h1>Vanakkam da mapla</h1>
